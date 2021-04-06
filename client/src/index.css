@@ -1,0 +1,20 @@
+*{
+  margin: 0;
+}
+
+body {
+  background-color: #ecf3f9;
+}
+
+.mainContent {
+  margin-top: 110px;
+}
+
+.my-custom-scrollbar {
+  position: relative;
+  height: 650px;
+  overflow: auto;
+  }
+  .table-wrapper-scroll-y {
+  display: block;
+  }
